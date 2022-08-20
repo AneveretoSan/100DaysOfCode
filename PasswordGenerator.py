@@ -1,4 +1,4 @@
-'''Password generator v0.1.0'''
+'''Password generator v1.0'''
 '''Future adds: GUI'''
 
 import random

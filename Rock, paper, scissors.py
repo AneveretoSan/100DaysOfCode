@@ -1,4 +1,4 @@
-'''Rock paper and scissors v0.1.0'''
+'''Rock paper and scissors v1.0'''
 '''Future adds: GUI, icons, skins, lizar and spoke update'''
 
 import random

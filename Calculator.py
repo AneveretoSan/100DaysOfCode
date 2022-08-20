@@ -1,4 +1,4 @@
-'''Calculator v0.1.0'''
+'''Calculator v1.0'''
 
 '''Future adds: GUI, factorial, sen, con, tg, arcsen, arccon, arctg, 
     de radianes a grados y viseversa, de celsius a farenheit y a kelvin y viseversa, ecuaciones cuadradas, derivadas'''

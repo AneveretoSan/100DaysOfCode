@@ -1,3 +1,7 @@
+'''Hangman v1.0'''
+
+'''Future adds: GUI'''
+
 from words import words
 import random
 import string

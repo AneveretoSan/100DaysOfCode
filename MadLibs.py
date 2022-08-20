@@ -1,4 +1,4 @@
-'''MadLibs v0.1.0'''
+'''MadLibs v1.0'''
 
 '''Future adds: GUI, different texts to choice, mores requests, find a way to do it more short'''
 
