@@ -12,7 +12,7 @@ while True: # para que todo siga repitiendose una vez acaba
     python_choice = random.choice(choices) #el ordenador seleciona su elección de manera aleatoria dentro de la lista
     user_choice = None 
 
-    while user_choice not in choices: # si el jugador no ha seleccionado una opción correcta vlverá a mandarle el input hasta que envie una correcta
+    while user_choice not in choices: # si el jugador no ha seleccionado una opción correcta volverá a mandarle el input hasta que envie una correcta
         user_choice = input("Select your choice: ").lower()
 
     print("\nYour choice is: " + user_choice + "\nPython choice is: " + python_choice + "\n")
