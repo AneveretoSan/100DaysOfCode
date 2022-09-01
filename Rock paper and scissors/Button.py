@@ -3,7 +3,7 @@ from Window import Window
 
 window = Window()
 
-icon = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\scissors.png')
+icon = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\Icons\\scissors.png')
 
 def __init__(self):
 

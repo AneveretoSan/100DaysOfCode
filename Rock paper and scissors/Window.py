@@ -11,8 +11,8 @@ def click():
     print("scissors")
 
 window = Tk()
-icon = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\rock-paper-scissors.png')
-scissors = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\scissors.png')
+icon = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\Icons\\rock-paper-scissors.png')
+scissors = PhotoImage(file = 'P:\\jinja\\Programación\\100DaysOfCodding\\Rock paper and scissors\\Icons\\scissors.png')
 
 
 
